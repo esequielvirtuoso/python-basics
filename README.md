@@ -1,2 +1,2 @@
 # python-basics
-Basic Python concepts
+Basic Python concepts for reference
